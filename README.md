@@ -14,7 +14,7 @@ A simple and easy program to create a readme file.
 Clone the repository from Github then use 'npm install' on the command line to install the npm packages for the project.
 ### **Usage**
 See the included video for how to use this app.
-![Video](https://youtu.be/P6rjBClr2Y0)
+![Alt text](https://youtu.be/P6rjBClr2Y0)
 ### **License**
 This project is licensed under the MIT
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
